@@ -59,3 +59,7 @@ E:\GitHub_Projects\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWe
 E:\GitHub_Projects\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
 E:\GitHub_Projects\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 E:\GitHub_Projects\DatingApp\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\GitHub_Projects\DatingApp\API\bin\Debug\net5.0\Data\UserSeedData.json
+E:\GitHub_Projects\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\GitHub_Projects\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\GitHub_Projects\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll

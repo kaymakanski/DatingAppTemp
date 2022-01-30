@@ -1,7 +1,9 @@
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using API.Extensions;
 
 namespace API.Entities
 {
@@ -23,9 +25,8 @@ namespace API.Entities
         public string Country { get; set; }
         public ICollection<Photo> Photos { get; set; }
 
-
         public int GetAge(){
-            return 99;
+            return DateOfBirth.CalculateAge();
         }
 
     }
