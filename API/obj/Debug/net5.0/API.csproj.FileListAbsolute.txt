@@ -63,3 +63,9 @@ E:\GitHub_Projects\DatingApp\API\bin\Debug\net5.0\Data\UserSeedData.json
 E:\GitHub_Projects\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 E:\GitHub_Projects\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
 E:\GitHub_Projects\DatingApp\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\GitHub_Projects\DatingApp\API\bin\Debug\net5.0\AutoMapper.dll
+E:\GitHub_Projects\DatingApp\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\GitHub_Projects\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\GitHub_Projects\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+E:\GitHub_Projects\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\GitHub_Projects\DatingApp\API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
