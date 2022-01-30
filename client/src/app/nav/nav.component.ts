@@ -28,10 +28,6 @@ export class NavComponent implements OnInit {
    .login(this.model)
    .subscribe(response => {
      this.router.navigateByUrl('/members');
-      
-    }, error => {
-      console.log(error);
-      this.toastr.error(error.error)
     })
   }
 
