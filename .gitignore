@@ -454,4 +454,4 @@ $RECYCLE.BIN/
 !.vscode/extensions.json
 StudentAssets/
 ssl/
-appsettings.json
+API/appsettings.json
